@@ -5,7 +5,7 @@ const Home = (props: Props) => {
   return (
     <div>
       <h1>Home</h1>   
-      <p>For all your shopping needs</p>   
+      <p>For all of your shopping needs forever!</p>   
     </div>
   )
 }

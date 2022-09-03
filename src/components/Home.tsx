@@ -1,12 +1,11 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
 
 type Props = {}
 
 const Home = (props: Props) => {
   return (
     <div>
-      <h1>Home</h1>      
+      <h1>Home</h1>   
+      <p>For all your shopping needs</p>   
     </div>
   )
 }
